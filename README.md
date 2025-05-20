@@ -1,6 +1,7 @@
 # SonicPulse: Interactive Drum Kit 🥁🎼
 
-**Unleash your inner drummer🥁!** SonicPulse is a web-based interactive drum kit that lets you play a variety of drum sounds using your keyboard or by clicking on the drum pads.  It's a fun and engaging project for anyone who loves music, or wants to explore creating their own rhythms.
+**Unleash your inner drummer🥁!** 
+SonicPulse is a web-based interactive drum kit that lets you play a variety of drum sounds using your keyboard or by clicking on the drum pads.  It's a fun and engaging project for anyone who loves music, or wants to explore creating their own rhythms.
 
 ## Features
 
@@ -13,7 +14,8 @@
 
 ## How to Play
 
-1.  **Visit the Website:** Open the [SonicPulse Drum Kit](https://meetkaushiksharma.github.io/drum-kit/) in your web browser.  2.  **Use your Keyboard or Mouse:**
+1.  **Visit the Website:** Open the [SonicPulse Drum Kit]([https://meetkaushiksharma.github.io/drum-kit/](https://meetkaushiksharma.github.io/SonicPulse/)) in your web browser.
+2.  2.  **Use your Keyboard or Mouse:**
     * **Keyboard:** Press the following keys to play the corresponding drum sounds:
 
         <div style="display: flex; justify-content: center; margin-bottom: 16px;">
