@@ -63,9 +63,6 @@
 * **Web Audio API:** Used for playing the audio samples.
 * **Google Fonts:** Arvo font for headings.
 
-## Code Structure
-
-├── index.html       # Main HTML file├── css/│   └── styles.css   # Stylesheet for the drum kit├── js/│   └── index.js     # JavaScript logic for interactivity└── sounds/          # Directory containing the drum sound files (.mp3)├── crash.mp3├── kick-bass.mp3├── snare.mp3├── tom-1.mp3├── tom-2.mp3├── tom-3.mp3└── tom-4.mp3
 ## Setup (For Developers)
 
 1.  **Clone the Repository:**
@@ -94,18 +91,6 @@ Contributions are welcome! If you'd like to contribute to SonicPulse, please fol
     ```
 5.  **Create a Pull Request:** Create a pull request to the `main` branch of the original repository.
 
-##  Possible Enhancements
-
-* Add a visualizer to react to the drum sounds.
-* Implement a recording feature to save and playback drum loops.
-* Add more drum sound options or allow users to customize sounds.
-* Create a metronome to help users keep time.
-* Improve mobile responsiveness and touch interactions.
-* Add more sophisticated effects like reverb and delay.
-
-##  License
-
-This project is licensed under the [MIT License](LICENSE).  (Add a LICENSE file to your repo)
 
 ##  Acknowledgments
 
@@ -118,4 +103,4 @@ This project is licensed under the [MIT License](LICENSE).  (Add a LICENSE file 
 
 Feel free to connect with me:
 
-* [My Website](https://meetkaushiksharma.github.io/)  * [GitHub](https://github.com/your-username)  * [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)  ```
+ * [GitHub](https://github.com/meetkaushiksharma)  * [LinkedIn](https://www.linkedin.com/in/meetkaushiksharma/)  ```
